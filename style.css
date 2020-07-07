@@ -1,0 +1,19 @@
+/* Button styles */
+.parler-follow {
+    background:url(https://image-cdn.parler.com/X/o/XouEnBddFl.png) no-repeat;
+    cursor:pointer;
+    border:none;
+    width: 250px;
+    height: 45px;
+	margin: 0px 0px 5px 0px;
+	background-size: 100% 100%;
+	}
+	
+.parler-share {
+    background:url(https://image-cdn.parler.com/I/l/IlJjuHlIuR.png) no-repeat;
+    cursor:pointer;
+    border:none;
+    width: 250px;
+    height: 45px;
+	background-size: 100% 100%;
+}
